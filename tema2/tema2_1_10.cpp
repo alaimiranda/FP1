@@ -28,5 +28,5 @@ int main () {
 
 // raíz -> sqrt() <cmath>
 // potencia -> pow() <math.h>
-//valor absoluto -> abs() <cmath>
-// seno y tangente -> sin()/tan() <cmath> 
+// valor absoluto -> abs() <cmath>
+// seno y tangente -> sin()/tan() <cmath>
